@@ -13,7 +13,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/Ahad9049/argocd-helm-imaegeupdater.git
-    path: .
+    path: flask-todo-helm
     targetRevision: main
     helm:
       valueFiles:
